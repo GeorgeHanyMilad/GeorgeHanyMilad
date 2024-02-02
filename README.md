@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-hany-m&label=Profile%20views&color=0e75b6&style=flat" alt="george-hany-m" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george-hany-m" alt="george-hany-m" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@georgeh80353029" target="blank"><img src="https://img.shields.io/twitter/follow/@georgeh80353029?logo=twitter&style=for-the-badge" alt="@georgeh80353029" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -15,8 +16,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@georgeh80353029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@georgeh80353029" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/george-hany-027194244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-hany-027194244" height="30" width="40" /></a>
 <a href="https://kaggle.com/georgehanymilad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="georgehanymilad" height="30" width="40" /></a>
+<a href="https://fb.com/george.hany.75685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="george.hany.75685" height="30" width="40" /></a>
+<a href="https://instagram.com/gorge_hany.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorge_hany.m" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/george_hany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="george_hany" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/georgehany145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="georgehany145" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/george-hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="george-hany" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/georgehany145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="georgehany145" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@georgehany145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@georgehany145" height="30" width="40" /></a>
+<a href="https://discord.gg/georgehany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgehany" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
