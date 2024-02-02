@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 < img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
