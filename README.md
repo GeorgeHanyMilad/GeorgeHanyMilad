@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/Y0DyMrQv/thoughtworks-gif-dribbble.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 < img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
