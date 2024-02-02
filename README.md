@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/1UEn.gif)](https://rishavchanda.io)
+[[![MasterHead](https://i.gifer.com/1UEn.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 < img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george-hany-m&show_icons=true&locale=en" alt="george-hany-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=george-hany-m&" alt="george-hany-m" /></p>
+](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif
