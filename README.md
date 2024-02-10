@@ -1,6 +1,6 @@
 [![MasterHead](https://i.postimg.cc/Y0DyMrQv/thoughtworks-gif-dribbble.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
-<h3 align="center">Artificial Intelligence Student in Egypt</h3>
+<h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=george-hany-m&label=Profile%20views&color=0e75b6&style=flat" alt="george-hany-m" /> </p>
 
@@ -24,7 +24,6 @@
 <a href="https://codeforces.com/profile/george-hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="george-hany" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/georgehany145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="georgehany145" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@georgehany145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@georgehany145" height="30" width="40" /></a>
-<a href="https://discord.gg/georgehany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="georgehany" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
