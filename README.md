@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/Qxwdt7n8/AI-shutterstock-1722492775-scaled-1.jpg)
+![logo](https://sebangsanetwork.com/wp-content/uploads/2022/07/iot-and-ai.jpg)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 
