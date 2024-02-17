@@ -1,6 +1,6 @@
 ![logo](https://sebangsanetwork.com/wp-content/uploads/2022/07/iot-and-ai.jpg)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
-<h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
+<h3 align="center">Artificial Intelligence Student In Egypt</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
