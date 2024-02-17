@@ -1,4 +1,4 @@
-![logo]([https://th.bing.com/th/id/OIP.oNQdz3-wTV8Uo_mainA8xAHaFj?w=231&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://www.cxoinsightme.com/wp-content/uploads/2020/07/AI_shutterstock_1722492775-scaled.jpg))
+![logo](https://www.cxoinsightme.com/wp-content/uploads/2020/07/AI_shutterstock_1722492775-scaled.jpg)
 <h1 align="center">Hi 👋, I'm George Hany</h1>
 <h3 align="center">Artificial Intelligence Engineer in Egypt</h3>
 
