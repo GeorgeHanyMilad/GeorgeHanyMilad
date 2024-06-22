@@ -25,4 +25,7 @@
   <a href="https://leetcode.com/u/georgehanymilad/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://vjudge.net/user/George_Hany" target="_blank">
+    <img src="https://img.shields.io/badge/Vjudge-1A73E8?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
 </div>
