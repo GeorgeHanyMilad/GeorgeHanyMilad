@@ -22,7 +22,7 @@
   <a href="https://codeforces.com/profile/George-Hany" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/georgehany145/" target="_blank">
+  <a href="https://leetcode.com/u/georgehanymilad/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
