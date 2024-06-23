@@ -29,3 +29,7 @@
     <img src="https://img.shields.io/badge/Vjudge-1A73E8?style=for-the-badge&logo=code&logoColor=white" />
   </a>
 </div>
+</br>
+<div align="center">
+    <img src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
+</div>
