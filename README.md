@@ -35,6 +35,3 @@
 <div align="center">
     <img src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
 </div>
-
-# 💻 Technologies & Skills:
-![Git](https://img.shields.io/badge/Git-%23FFF8DC?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-%23696969?style=for-the-badge&logo=github) ![Python](https://img.shields.io/badge/Python-%23ADD8E6?style=for-the-badge&logo=Python) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%234169E1?style=for-the-badge&logo=C%2B%2B) ![Jupyter](https://img.shields.io/badge/Jupyter-%23FFF8DC?style=for-the-badge&logo=Jupyter) ![Numpy](https://img.shields.io/badge/numpy-%230000FF?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-%23008000?style=for-the-badge&logo=Pandas)
