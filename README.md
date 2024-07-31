@@ -52,4 +52,13 @@
 
 ## Machine Learning Platforms 🤖
 ![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%20%23FF8C00?style=for-the-badge&logo=Scikit-learn&logoSize=auto)
-<br>
+<be>
+
+## ⚡ Stats ⚡
+<a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHanyMilad&langs_count=8&layout=compact&theme=radical" />
+</a>
+
