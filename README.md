@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
+    <img src="https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif" />
 </div>
 <be>
 
@@ -42,6 +42,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
-  <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHanyMilad&langs_count=8&layout=compact&theme=radical" />
 </a>
-
