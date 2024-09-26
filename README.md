@@ -44,3 +44,10 @@
 <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHanyMilad&langs_count=8&layout=compact&theme=radical" />
 </a>
+<br>
+
+## 🔰 My Resume 🔰
+## **<img src="https://icon-library.com/images/link-icon-svg/link-icon-svg-29.jpg" alt="Link" width="25" height="25"> [George Hany Milad CV](https://drive.google.com/file/d/1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5/view?usp=sharing) <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>**
+
+
+
