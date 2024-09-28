@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif" />
+    <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_gifgraph.gif" />
 </div>
 <be>
 
