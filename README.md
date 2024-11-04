@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_gifgraph.gif" />
+    <img src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019051608A.gif" />
 </div>
 <be>
 
