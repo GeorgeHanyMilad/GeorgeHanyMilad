@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## **<img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" alt="Link" width="20" height="20"> [George Hany Milad - Data Analyst CV](https://drive.google.com/file/d/1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5/view?usp=drive_link) <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>**
+## **<img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" alt="Link" width="20" height="20"> [George Hany Milad - Data Analyst CV](https://drive.google.com/file/d/1BUSDxPDBQF8UE54H0mv08LAbQqcap9NL/view?usp=sharing) <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>**
 
 </div>
 
